@@ -1,2 +1,2 @@
 # whatsapp-automatic
-scheduling  whatsapp message using python
+Scheduling  whatsapp message using python
